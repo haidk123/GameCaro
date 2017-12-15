@@ -1,0 +1,3 @@
+﻿  CaroTest.cpp
+f:\carotest\carotest\carotest.cpp(96): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  CaroTest.vcxproj -> F:\CaroTest\Debug\CaroTest.exe
